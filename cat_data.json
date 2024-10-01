@@ -1,0 +1,88 @@
+{
+    "memoQ (web)": {
+        "hotkey": "ctrl+shift+s",
+        "delay": 0.01,
+        "title": "memoQwebTrans",
+        "type": "factory"
+    },
+    "memoQ (desktop)": {
+        "hotkey": "ctrl+shift+s",
+        "delay": 0.3,
+        "title": "memoQ (desktop)",
+        "type": "factory"
+    },
+    "Trados Studio": {
+        "hotkey": "ctrl+insert",
+        "delay": 0.01,
+        "title": "Trados Studio - ",
+        "type": "factory"
+    },
+    "Smartling": {
+        "hotkey": "ctrl+insert",
+        "delay": 0.1,
+        "title": "Smartling",
+        "type": "factory"
+    },
+    "Generic Tool": {
+        "hotkey": "",
+        "delay": 0.3,
+        "title": "",
+        "type": "factory"
+    },
+    "WordBee": {
+        "hotkey": "alt+insert",
+        "delay": 0.21,
+        "title": "",
+        "type": "factory"
+    },
+    "Lokalise": {
+        "hotkey": "ctrl+alt+insert",
+        "delay": 0.15,
+        "title": " | Lokalise",
+        "type": "factory"
+    },
+    "MultiTrans Web Editor": {
+        "hotkey": "",
+        "delay": 0.3,
+        "title": "MultiTrans Web Editor",
+        "type": "factory",
+        "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid."
+    },
+    "Coach": {
+        "hotkey": "",
+        "delay": 0.27,
+        "title": "- Coach",
+        "type": "factory",
+        "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E."
+    },
+    "memoQwebTrans": {
+        "hotkey": "ctrl+shift+s",
+        "delay": 0.23,
+        "title": "memoQwebTrans",
+        "type": "factory"
+    },
+    "memoQ": {
+        "hotkey": "ctrl+shift+s",
+        "delay": 0.21,
+        "title": "memoQ",
+        "type": "factory"
+    },
+    "Smartcat": {
+        "hotkey": "ctrl+insert",
+        "delay": 0.3,
+        "title": "",
+        "type": "user"
+    },
+    "Phrase": {
+        "hotkey": "ctrl+insert",
+        "delay": 0.21,
+        "title": " - Editor for Web",
+        "type": "user"
+    },
+    "WordBee (new)": {
+        "hotkey": "alt+insert",
+        "delay": 0.21,
+        "title": "",
+        "type": "user"
+    }
+}
