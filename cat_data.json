@@ -53,7 +53,7 @@
         "delay": 0.27,
         "title": "- Coach",
         "type": "factory",
-        "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E."
+        "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E..."
     },
     "memoQwebTrans": {
         "hotkey": "ctrl+shift+s",
