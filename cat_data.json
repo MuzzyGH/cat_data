@@ -2,87 +2,73 @@
     "memoQ (web)": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.01,
-        "title": "memoQwebTrans",
-        "type": "factory"
+        "title": "memoQwebTrans"
     },
     "memoQ (desktop)": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.3,
-        "title": "memoQ (desktop)",
-        "type": "factory"
+        "title": "memoQ (desktop)"
     },
     "Trados Studio": {
         "hotkey": "ctrl+insert",
         "delay": 0.01,
-        "title": "Trados Studio - ",
-        "type": "factory"
+        "title": "Trados Studio - "
     },
     "Smartling": {
         "hotkey": "ctrl+insert",
         "delay": 0.1,
-        "title": "Smartling",
-        "type": "factory"
+        "title": "Smartling"
     },
     "Generic Tool": {
         "hotkey": "",
         "delay": 0.3,
-        "title": "",
-        "type": "factory"
+        "title": ""
     },
     "WordBee": {
         "hotkey": "alt+insert",
         "delay": 0.21,
-        "title": "",
-        "type": "factory"
+        "title": ""
     },
     "Lokalise": {
         "hotkey": "ctrl+alt+insert",
         "delay": 0.15,
-        "title": " | Lokalise",
-        "type": "factory"
+        "title": " | Lokalise"
     },
     "MultiTrans Web Editor": {
         "hotkey": "",
         "delay": 0.3,
         "title": "MultiTrans Web Editor",
-        "type": "factory",
         "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid."
     },
     "Coach": {
         "hotkey": "",
         "delay": 0.27,
         "title": "- Coach",
-        "type": "factory",
         "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E..."
     },
     "memoQwebTrans": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.23,
         "title": "memoQwebTrans",
-        "type": "factory"
     },
     "memoQ": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.21,
         "title": "memoQ",
-        "type": "factory"
     },
     "Smartcat": {
         "hotkey": "ctrl+insert",
         "delay": 0.3,
-        "title": "",
-        "type": "user"
+        "title": ""
     },
     "Phrase": {
         "hotkey": "ctrl+insert",
         "delay": 0.21,
-        "title": " - Editor for Web",
-        "type": "user"
+        "title": " - Editor for Web"
     },
     "WordBee (new)": {
         "hotkey": "alt+insert",
         "delay": 0.21,
-        "title": "",
-        "type": "user"
+        "title": ""
     }
 }
