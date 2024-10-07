@@ -64,7 +64,7 @@
     },
     "Phrase": {
         "hotkey": "ctrl+insert",
-        "delay": 0.21,
+        "delay": 0.66,
         "title": " - Editor for Web",
         "info": "this is just a test"
     },
