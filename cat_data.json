@@ -64,7 +64,8 @@
     "Phrase": {
         "hotkey": "ctrl+insert",
         "delay": 0.21,
-        "title": " - Editor for Web"
+        "title": " - Editor for Web",
+        "info": "this is just a test"
     },
     "WordBee (new)": {
         "hotkey": "alt+insert",
