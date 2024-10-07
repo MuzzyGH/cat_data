@@ -1,8 +1,8 @@
 {
   "Coach": {
-    "hotkey": "",
-    "delay": 0.27,
-    "title": "- Coach",
+    "hotkey": "insert",
+    "delay": 0.6,
+    "title": " Coach",
     "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E...",
     "edited_hotkey": false,
     "edited_delay": false,
