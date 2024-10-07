@@ -1,76 +1,101 @@
-{
+default_cat_data = {
     "memoQ (web)": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.01,
-        "title": "memoQwebTrans"
+        "title": "memoQwebTrans",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "memoQ (desktop)": {
-        "hotkey": "ctrl+shift+s",
-        "delay": 0.3,
-        "title": "memoQ (desktop)"
+        "hotkey": "",
+        "delay": 0.21,
+        "title": "memoQ",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Trados Studio": {
         "hotkey": "ctrl+insert",
         "delay": 0.01,
-        "title": "Trados Studio - "
+        "title": "Trados Studio - ",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Smartling": {
         "hotkey": "ctrl+insert",
-        "delay": 0.1,
-        "title": "Smartling"
+        "delay": 0.3,
+        "title": "Smartling",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Generic Tool": {
         "hotkey": "",
         "delay": 0.3,
-        "title": ""
+        "title": "",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
+    },
+    "Phrase": {
+        "hotkey": "ctrl+insert",
+        "delay": 0.3,
+        "title": " - Editor for Web",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "WordBee": {
         "hotkey": "alt+insert",
         "delay": 0.21,
-        "title": ""
+        "title": "",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
+    },
+    "WordBee (new)": {
+        "hotkey": "",
+        "delay": 0.21,
+        "title": "",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Lokalise": {
-        "hotkey": "ctrl+alt+insert",
+        "hotkey": "ctrl+insert",
         "delay": 0.15,
-        "title": " | Lokalise"
+        "title": " | Lokalise",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "MultiTrans Web Editor": {
         "hotkey": "",
         "delay": 0.3,
         "title": "MultiTrans Web Editor",
-        "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid."
+        "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid.",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Coach": {
         "hotkey": "",
         "delay": 0.27,
         "title": "- Coach",
-        "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E..."
-    },
-    "memoQwebTrans": {
-        "hotkey": "ctrl+shift+s",
-        "delay": 0.23,
-        "title": "memoQwebTrans"
-    },
-    "memoQ": {
-        "hotkey": "ctrl+shift+s",
-        "delay": 0.21,
-        "title": "memoQ"
+        "info": "In Coach, if target segments are not prepopulated with source, you have to select source text manually and then press CTRL+E...",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     },
     "Smartcat": {
         "hotkey": "ctrl+insert",
         "delay": 0.3,
         "title": "",
-        "info": "be careful. This tool is not that smart!!!"
-    },
-    "Phrase": {
-        "hotkey": "ctrl+insert",
-        "delay": 0.66,
-        "title": " - Editor for Web",
-        "info": "this is just a test"
-    },
-    "WordBee (new)": {
-        "hotkey": "alt+insert",
-        "delay": 0.21,
-        "title": ""
+        "info": "be careful. This tool is not that smart!!!",
+        "edited_hotkey": False,
+        "edited_delay": False,
+        "edited_title": False
     }
 }
