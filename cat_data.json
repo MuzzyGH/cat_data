@@ -59,7 +59,8 @@
     "Smartcat": {
         "hotkey": "ctrl+insert",
         "delay": 0.3,
-        "title": ""
+        "title": "",
+        "info": "be careful. This tool is not that smart"
     },
     "Phrase": {
         "hotkey": "ctrl+insert",
