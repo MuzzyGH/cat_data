@@ -49,12 +49,12 @@
     "memoQwebTrans": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.23,
-        "title": "memoQwebTrans",
+        "title": "memoQwebTrans"
     },
     "memoQ": {
         "hotkey": "ctrl+shift+s",
         "delay": 0.21,
-        "title": "memoQ",
+        "title": "memoQ"
     },
     "Smartcat": {
         "hotkey": "ctrl+insert",
