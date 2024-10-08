@@ -26,7 +26,7 @@
   },
   "MultiTrans Web Editor": {
     "hotkey": "",
-    "delay": 0.3,
+    "delay": 0.9,
     "title": "MultiTrans Web Editor",
     "info": "In MultiTrans, you have to copy source to target first by clicking the dedicated button on top of source/target grid.",
     "edited_hotkey": false,
@@ -68,7 +68,7 @@
   },
   "WordBee": {
     "hotkey": "alt+insert",
-    "delay": 0.21,
+    "delay": 0.3,
     "title": "",
     "edited_hotkey": false,
     "edited_delay": false,
