@@ -66,10 +66,19 @@
     "edited_delay": false,
     "edited_title": false
   },
-  "WordBee": {
+  "WordBee (legacy editor)": {
     "hotkey": "alt+insert",
     "delay": 0.3,
     "title": "",
+    "edited_hotkey": false,
+    "edited_delay": false,
+    "edited_title": false
+  },
+    "WordBee (new editor)": {
+    "hotkey": "alt+insert",
+    "delay": 0.3,
+    "title": "",
+    "info": "The new version of WordBee is incompatible with Catnip. Please go to the main page and make sure the box 'Please switch to the new editor' is unchecked. Then reload the editor.",
     "edited_hotkey": false,
     "edited_delay": false,
     "edited_title": false
